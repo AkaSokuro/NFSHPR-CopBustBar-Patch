@@ -16,14 +16,14 @@
 3. Start the game, and the patch will apply automatically.
 
 ## Uninstallation
-### Delete just the script
+### Delete just the patch
 - Delete `Bust Bar Patch.dll` in `scripts` folder.
 ### Delete the whole mod
 - Delete `dinput8.dll` and `scripts` in `NFS11Remastered.exe` location.
 
 ## Troubleshooting
 - If the patch does not work:
-  - Ensure the script is in the correct directory. (game directory)
+  - Ensure the patch is in the correct directory. (game directory)
   - Check if **Ultimate ASI Loader** is correctly installed.
 - If you receive a "Patch Error" message, try restarting the game.
 
