@@ -1,7 +1,7 @@
 <h1 align="center">NFS:HPR - Cop Bust Bar (Patch)</h1>
 
 <p align="center">
-  <img src="https://github.com/AkaSokuro/NFSHPR-CopBustBar-Patch/blob/master/assets/preview.gif"/>
+  <img alt="" src="https://raw.githubusercontent.com/AkaSokuro/NFSHPR-CopBustBar-Patch/refs/heads/master/assets/preview.gif"/>
 </p>
 
 <p align="center">
