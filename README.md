@@ -1,4 +1,4 @@
-<h1 align="center">NFS:HPR - Cop Bust Bar (Patch)</h1>
+<h1 align="center"><a href="https://github.com/AkaSokuro/NFSHPR-CopBustBar-Patch">NFS:HPR - Cop Bust Bar (Patch)</a></h1>
 
 <p align="center">
   <img alt="" src="https://raw.githubusercontent.com/AkaSokuro/NFSHPR-CopBustBar-Patch/refs/heads/master/assets/preview.gif"/>
